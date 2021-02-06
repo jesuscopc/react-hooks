@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Sui Test HomeScreen should be render correctly 1`] = `<HomeScreen />`;

@@ -1,0 +1,34 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Sui Test <TodoLIst/> should be render correctly 1`] = `
+<ol
+  className="list-group list-group-flush"
+>
+  <TodoLIstItem
+    deleteTask={[MockFunction]}
+    handleToggle={[MockFunction]}
+    i={0}
+    key="1"
+    task={
+      Object {
+        "desc": "Aprender React",
+        "done": false,
+        "id": 1,
+      }
+    }
+  />
+  <TodoLIstItem
+    deleteTask={[MockFunction]}
+    handleToggle={[MockFunction]}
+    i={1}
+    key="2"
+    task={
+      Object {
+        "desc": "Aprender Mongo",
+        "done": false,
+        "id": 2,
+      }
+    }
+  />
+</ol>
+`;
